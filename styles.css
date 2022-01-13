@@ -1,0 +1,12 @@
+body {
+    background-color: #1c1b1b;
+    font-family: Lucida Sans Typewriter, Lucida Typewriter;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
